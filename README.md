@@ -20,5 +20,5 @@
 
 1. **Clone repository:**
    ```bash
-   git clone <URL_REPOSITORY_ของน้อง>
+   git clone <URL_REPOSITORY_ของคุณ>
    cd meme-app
